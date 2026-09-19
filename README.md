@@ -61,13 +61,14 @@ It is intended for celebratory occasions such as graduations, career promotions,
 
 &nbsp;
 
-# **Circuit** **![][image1]**&nbsp;
+# **Circuit** **
+![Circuit](Circuit.png)**&nbsp;
 
 &nbsp;
 
 # **Results**
 
-![][image2]
+![result](result.jpeg)
 
 # **Notes**
 
